@@ -1,0 +1,3 @@
+# Exclude unwanted files from pack exports
+
+/README.md
