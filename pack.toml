@@ -1,0 +1,13 @@
+name = "Practical Vanilla"
+author = "Kaidenleaf"
+version = "0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e6d340409cb1bc7e2d5b94af53db489aed0a6faf4b258fabd94abccfa8cf7b8f"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.14"
